@@ -2,13 +2,7 @@
 
 基于 react, react-router4, webpack2, ant-design 实现的 node 项目
 
-支持开发热替换
-
-## 配置
-
-```bash
-npm install
-```
+该项目集成了`react`相关技术栈，支持less、mongodb连接、开发环境热替换等
 
 ## 运行
 
